@@ -1,1 +1,1 @@
-# maze-game-hackathon
+# maze-game
